@@ -6,7 +6,7 @@
   <img align="center" alt="MySQL" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-## Contato 📧
+## Contato ✉
 
  <a href="mailto:gustavotibes8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="external"></a>
  <a href="https://www.linkedin.com/in/gustavo-t-853b53372/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
